@@ -1,0 +1,38 @@
+{
+  "name": "Alumni MAN 3 Cirebon",
+  "short_name": "Alumni MAN 3 Cirebon",
+  "start_url": "https://www.alumnimanbuntet1997.web.id",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Blog yang berisi Alumni MAN 3 Cirebon.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-6sHTX2f1cgY/XtM1CN3ZjwI/AAAAAAAADwc/-zEpTxJ8liEv0jIuvhoP6BrKLvaYby1LACLcBGAsYHQ/s48/logo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6sHTX2f1cgY/XtM1CN3ZjwI/AAAAAAAADwc/-zEpTxJ8liEv0jIuvhoP6BrKLvaYby1LACLcBGAsYHQ/s72/logo.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6sHTX2f1cgY/XtM1CN3ZjwI/AAAAAAAADwc/-zEpTxJ8liEv0jIuvhoP6BrKLvaYby1LACLcBGAsYHQ/s96/logo.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6sHTX2f1cgY/XtM1CN3ZjwI/AAAAAAAADwc/-zEpTxJ8liEv0jIuvhoP6BrKLvaYby1LACLcBGAsYHQ/s144/logo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6sHTX2f1cgY/XtM1CN3ZjwI/AAAAAAAADwc/-zEpTxJ8liEv0jIuvhoP6BrKLvaYby1LACLcBGAsYHQ/s168/logo.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6sHTX2f1cgY/XtM1CN3ZjwI/AAAAAAAADwc/-zEpTxJ8liEv0jIuvhoP6BrKLvaYby1LACLcBGAsYHQ/s192/logo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6sHTX2f1cgY/XtM1CN3ZjwI/AAAAAAAADwc/-zEpTxJ8liEv0jIuvhoP6BrKLvaYby1LACLcBGAsYHQ/s512/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
