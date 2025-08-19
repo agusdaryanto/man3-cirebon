@@ -1,5 +1,5 @@
 {
-  "name": "Alumni MAN 3 Kab.Cirebon",
+  "name": "Alumni MAN Buntet Pesantren Cirebon",
   "short_name": "Alumni MAN Buntet Pesantren Cirebon",
   "start_url": "https://www.man3kabcirebon.my.id",
   "display": "standalone",
@@ -36,4 +36,5 @@
     "type": "image/png"
   }]
 }
+
 
